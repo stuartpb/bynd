@@ -1,0 +1,29 @@
+{
+  "name": "bynd",
+  "version": "0.0.0",
+  "description": "Featherweight N-way data bindings with ES6 Map indexes",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stuartpb/bynd.git"
+  },
+  "keywords": [
+    "data",
+    "binding"
+  ],
+  "author": "Stuart P. Bentley <stuart@testtrack4.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stuartpb/bynd/issues"
+  },
+  "homepage": "https://github.com/stuartpb/bynd#readme",
+  "devDependencies": {
+    "mocha": "^2.5.3"
+  }
+}
