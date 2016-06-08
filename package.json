@@ -1,6 +1,6 @@
 {
   "name": "bynd",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Featherweight N-way data bindings with ES6 Map indexes",
   "main": "index.js",
   "directories": {
